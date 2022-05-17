@@ -22,8 +22,8 @@ You can click the Preview link to take a look at your changes.
 [![website](./img/twitter-light.svg)](https://twitter.com/Manishnigaam#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Manishnigaam#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/manish-nigam-9692631a6#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/manish-nigam-9692631a6#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/manishnigaam#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/manishnigaam#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/manishnigaam/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/manishnigaam/#gh-dark-mode-only)
