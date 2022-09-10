@@ -2,7 +2,7 @@
 
 - 👋 I'm cuttently working on React
 - 🌱 I’m currently learning React Js.
-- 💞️ I’m looking to collaborate on Youtube.
+- 💞️ I’m looking to collaborate on Front-end Development.
 - 👀 I’m interested in Programmin
 - 🥅 2022 Goals: Learn more about web3
 - 📫 How to reach me: twitter -@manishnigaam
