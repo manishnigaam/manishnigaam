@@ -1,13 +1,13 @@
 ### Hola, I’m Manish Nigam!👋
 
-- 👋 I'm cuttently working on  ...
-- 🌱 I’m currently learning Java Script.
+- 👋 I'm cuttently working on React
+- 🌱 I’m currently learning React Js.
 - 💞️ I’m looking to collaborate on Youtube.
-- 👀 I’m interested in ...
+- 👀 I’m interested in Programmin
 - 🥅 2022 Goals: Learn more about web3
 - 📫 How to reach me: twitter -@manishnigaam
 - ⚡ Pronouns: He/His.
-- 😻 Fun Fact: I spend almost 12 hour listening songs everyday.
+- 😻 Fun Fact: I spend almost 2 hour listening songs everyday.
 
 <!---
 manishnigaam/manishnigaam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
